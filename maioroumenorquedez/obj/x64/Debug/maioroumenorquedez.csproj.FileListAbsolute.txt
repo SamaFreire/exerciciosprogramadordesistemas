@@ -1,0 +1,10 @@
+C:\Users\elissama.fpena\source\programadordesistemas\maioroumenorquedez\bin\x64\Debug\maioroumenorquedez.exe.config
+C:\Users\elissama.fpena\source\programadordesistemas\maioroumenorquedez\bin\x64\Debug\maioroumenorquedez.exe
+C:\Users\elissama.fpena\source\programadordesistemas\maioroumenorquedez\bin\x64\Debug\maioroumenorquedez.pdb
+C:\Users\elissama.fpena\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.csproj.AssemblyReference.cache
+C:\Users\elissama.fpena\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.frmMaiorMenorqueDez.resources
+C:\Users\elissama.fpena\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.Properties.Resources.resources
+C:\Users\elissama.fpena\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.csproj.GenerateResource.cache
+C:\Users\elissama.fpena\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.csproj.CoreCompileInputs.cache
+C:\Users\elissama.fpena\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.exe
+C:\Users\elissama.fpena\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.pdb
